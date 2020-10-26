@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MY CAMPUS</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="log_out">Log Out</string>
+    <string name="second">Second Main Activity</string>
+
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+
+    <string name="buttondate">Date</string>
+    <string name="buttonrime">Time</string>
+
+    <string name="Hello1">Hello World!</string>
+    <string name="Hello2">Hello World! Choose a date:</string>
+    <string name="Hello3">Hello World! Choose a time:</string>
+
+    <string name="tugas1">Tugas Activity dan Intent</string>
+    <string name="tugas2">Tugas Timepicker dialog</string>
+    <string name="tugas3">Tugas Activity dan Intent</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="datepicker">datePicker</string>
+    <string name="timepicker">timePicker</string>
+
+    <string name="toastSettings">You Selected Settings</string>
+    <string name="toastHelp">You Selected Help</string>
+    <string name="toastLogout">You have been successfully logged out!</string>
+</resources>
